@@ -1,5 +1,5 @@
 # PomodoroApp
-Version of a Pomodoro App as a part of the App Brewery Python Bootcamp 2021. https://www.udemy.com/course/100-days-of-code/
+Version of a Pomodoro App as a part of the [App Brewery Python Bootcamp 2021](https://www.udemy.com/course/100-days-of-code/).
 
 I've added some upgraded features with respect to the original project in the course.
 The main custom feature is a winding up animation and sounds for the timer as well as a bell to
